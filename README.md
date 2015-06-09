@@ -3,8 +3,8 @@
 MenuCracker is a tool to re-enable the third-party menu extras that Apple has blocked since Mac OS X 10.2. Practically, it means that your StatusItem can now appear in the rightmost part of the status bar, be moved with CMD+click, just like stock Apple items.
 
 ## For end-users
-• Copy MenuCracker.menu anywhere in your home directory (~/Applications or ~/Library/Bundles are relatively good choices).
-• Then double click MenuCracker.menu. Nothing will appear in the menu bar, but you can now add third-party menu extras.
+* Copy MenuCracker.menu anywhere in your home directory (~/Applications or ~/Library/Bundles are relatively good choices).
+* Then double click MenuCracker.menu. Nothing will appear in the menu bar, but you can now add third-party menu extras.
 
 ## For developers
 If you are a developer and your menu extra is controlled by an application or preference pane there is some work for you to do. First add the MenuCracker binary to the resource folder of your application or preference pane. Then before calling CoreMenuExtraAddMenuExtra() for your menu extra execute the following code:
