@@ -19,6 +19,9 @@ CoreMenuExtraAddMenuExtra(url, 0, 0, nil, 0, &outExtra);
 CFRelease(url);
 ```
 
+## What if I have a problem ?
+Trick question, I don't care about your problems.
+
 ## Nota Bene
 As of June 2015, all of this repo's source code comes from http://menucracker.cvs.sourceforge.net/
 The only I have done was to copy-paste (and slightly correct) the "Read Me" file to this README.MD file, and the "Artistic License" file to the GitHub-style LICENSE file.
