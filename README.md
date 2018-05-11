@@ -1,4 +1,6 @@
 # MenuCracker
+## **Now broken**, since 10.11 *El Capitan*. Since 10.12 *Sierra*, it is also completely useless, because the single difference between Apple's stock menu extras and custom ones was the ability to reorder them – which is now available to both.
+
 ##### Taken from : http://menucracker.cvs.sourceforge.net/
 MenuCracker is a tool to re-enable the third-party menu extras that Apple has blocked since Mac OS X 10.2. Practically, it means that your StatusItem can now appear in the rightmost part of the status bar, be moved with CMD+click, just like stock Apple items.
 
